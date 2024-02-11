@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Python script named `AdvancedStockPredictorProphet.py` that leverages the `Prophet` library from Facebook for advanced stock price forecasting. This tool is designed to predict future stock prices based on historical data, using time-series forecasting techniques.
+This repository contains a Python script named `AdvancedStockPredictor.py` that leverages the `Prophet` library from Facebook for advanced stock price forecasting. This tool is designed to predict future stock prices based on historical data, using time-series forecasting techniques.
 
 ## Changes Made in This Version
 
