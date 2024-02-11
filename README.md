@@ -19,26 +19,20 @@ In this version, several improvements have been made to enhance the functionalit
 
 ## Usage
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/KannurAnudeepRaj/AdvancedStockPredictor.git
-   cd AdvancedStockPredictorProphet
-   ```
-
-2. **Install Dependencies:**
+1. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Replace Dataset:**
+2. **Replace Dataset:**
    - Replace `'your_data.csv'` with the actual filename of your stock price dataset in the script.
 
-4. **Run the Script:**
+3. **Run the Script:**
    ```bash
    python AdvancedStockPredictor.py
    ```
 
-5. **Adapt and Modify:**
+4. **Adapt and Modify:**
    - Feel free to adapt and further modify the code based on your specific requirements. Explore different hyperparameters, feature engineering, or additional visualizations to improve the model's performance.
 
 ## Author
