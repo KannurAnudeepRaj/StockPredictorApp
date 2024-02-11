@@ -21,7 +21,7 @@ In this version, several improvements have been made to enhance the functionalit
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/KannurAnudeepRaj/AdvancedStockPredictorProphet.git
+   git clone https://github.com/KannurAnudeepRaj/AdvancedStockPredictor.git
    cd AdvancedStockPredictorProphet
    ```
 
@@ -35,7 +35,7 @@ In this version, several improvements have been made to enhance the functionalit
 
 4. **Run the Script:**
    ```bash
-   python AdvancedStockPredictorProphet.py
+   python AdvancedStockPredictor.py
    ```
 
 5. **Adapt and Modify:**
